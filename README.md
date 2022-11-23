@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/utkarsh_maurya17/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://www.shutterstock.com/image-photo/bangkok-thailand-may-14-2016-260nw-419396578.jpg" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-blue" alt="Instagram Badge"/>
   </a>
 </div>
