@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Instagram-blue"width=100 alt="Instagram Badge"/>  </a>
 </div>
  <h1 style="text-align:center;">Hello there.</h1>
-<pre style="font-size:160%;"> I am a full stack developer from India. I am a hands-on
+<pre style="font-size:500 px;"> I am a full stack developer from India. I am a hands-on
   learner, hence prefer learning new technologies through development.
   In my free time, I explore new technologies, read tech blogs
   and solve problems on Data Structures and Algorithms.</pre>
