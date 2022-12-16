@@ -16,10 +16,10 @@
 <h1 style="text-align:center;">Hello there.</h1>
 
 <pre>
-  I am a full stack developer from India. I am a hands-on
+  I am an Engineering student from India. I am a hands-on
   learner, hence prefer learning new technologies through development.
   In my free time, I explore new technologies, read tech blogs
-  and solve problems on Data Structures and Algorithms.
+  and solve problems on real life problems.
   </pre>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
