@@ -1,6 +1,16 @@
 <div id="header" align="center">
   <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000"align="right" width="250"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/utkarsh-maurya-090062253/"  target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://twitter.com/Utkarsh70354118"  target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/utkarsh_maurya17/"  target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-blue"width=100 alt="Instagram Badge"/>  </a>
+</div>
 
 
 <h1 style="text-align:center;">Hello there.</h1>
@@ -12,16 +22,6 @@
   and solve problems on real life problems.
   </pre>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/utkarsh-maurya-090062253/"  target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://twitter.com/Utkarsh70354118"  target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/utkarsh_maurya17/"  target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-blue"width=100 alt="Instagram Badge"/>  </a>
-</div>
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
