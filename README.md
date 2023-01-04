@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/premium-vector/programmer-concentrated-working-project-developing-programming-coding-technologies_569013-332.jpg?w=2000" width="250"/>
+  <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000" width="250"/>
 </div>
 
 <div id="badges">
