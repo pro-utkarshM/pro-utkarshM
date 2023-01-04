@@ -2,6 +2,16 @@
   <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000"align="right" width="250"/>
 </div>
 
+
+<h1 style="text-align:center;">Hello there.</h1>
+
+<pre>
+  I am an Engineering student from India. I am a hands-on
+  learner, hence prefer learning new technologies through development.
+  In my free time, I explore new technologies, read tech blogs
+  and solve problems on real life problems.
+  </pre>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/utkarsh-maurya-090062253/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,14 +23,6 @@
     <img src="https://img.shields.io/badge/-Instagram-blue"width=100 alt="Instagram Badge"/>  </a>
 </div>
 
-<h1 style="text-align:center;">Hello there.</h1>
-
-<pre>
-  I am an Engineering student from India. I am a hands-on
-  learner, hence prefer learning new technologies through development.
-  In my free time, I explore new technologies, read tech blogs
-  and solve problems on real life problems.
-  </pre>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
