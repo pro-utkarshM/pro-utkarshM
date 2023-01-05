@@ -19,8 +19,7 @@
   I am an Engineering student from India. I am a hands-on
   learner, hence prefer learning new technologies through development.
   In my free time, I explore new technologies, read tech blogs
-  and solve problems on real life problems.
-  </pre>
+  and solve problems on real life problems. </pre>
 
 
 
