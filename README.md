@@ -15,7 +15,7 @@
 
   <h1 style="text-align:center;">Hello there.</h1>
 
-<pre>
+  <pre>
   I am an Engineering student from India. I am a hands-on
   learner, hence prefer learning new technologies through development.
   In my free time, I explore new technologies, read tech blogs
