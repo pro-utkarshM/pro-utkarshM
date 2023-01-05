@@ -1,7 +1,6 @@
-<div id="header" align="center">
-
   <h1 style="text-align:center;">Hello there.</h1>
 
+<div id="header" align="center">
   
   <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000"align="right" width="250" height="270"/>
 </div>
