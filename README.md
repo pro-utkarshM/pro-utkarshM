@@ -21,7 +21,6 @@
   In my free time, I explore new technologies, read tech blogs
   and solve problems on real life problems. </pre>
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={pro-utkarshM}&theme=vue
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
