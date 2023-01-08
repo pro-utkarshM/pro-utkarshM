@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  
+  <a target="_blank" href="mailto:projects.utkarshmaurya@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
   <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000" align="right" width="250" height="270"/>
 </div>
 <div id="badges">
@@ -31,9 +33,6 @@
 
   
 </div>
-
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-utkarshM&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pro-utkarshM&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
