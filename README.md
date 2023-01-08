@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <a target="_blank" href="mailto:projects.utkarshmaurya@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
   <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000" align="right" width="250" height="270"/>
 </div>
