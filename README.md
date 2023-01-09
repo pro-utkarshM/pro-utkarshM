@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" title="KOTLIN" alt="KOTLIN" width="40" height="40"/>&nbsp;
 
-<--!<p><img align="left" src="https://https://pro-utkarsh-m-sghh.vercel.app/api/top-langs?username=pro-utkarshM&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<!--<p><img align="left" src="https://https://pro-utkarsh-m-sghh.vercel.app/api/top-langs?username=pro-utkarshM&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://https://pro-utkarsh-m-sghh.vercel.app//api?username=pro-utkarshM&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 -->
 </div>
