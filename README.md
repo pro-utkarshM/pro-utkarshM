@@ -33,9 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-utkarshM&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pro-utkarshM&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pro-utkarshM/count.svg" />
-</p>
 </div>
