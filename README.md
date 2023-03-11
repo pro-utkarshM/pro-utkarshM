@@ -18,7 +18,7 @@
   I am an Engineering student from India. I am a hands-on
   learner, hence prefer learning new technologies through development.
   In my free time, I explore new technologies, read tech blogs
-  and solve problems on real life problems. </pre>
+  and solve real life problems. </pre>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
