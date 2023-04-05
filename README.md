@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://img.freepik.com/free-photo/astronaut-explores-outer-dark-space-generative-al_169016-28607.jpg?w=2000" align="right" width="270" height="300"/>
+  <img src="https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm01MTUtaWxsdXN0cmF0aW9uLTAxNWMteC5qcGc.jpg?w=2000" align="right" width="220" height="300"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/utkarsh-maurya-090062253/"  target="_blank">
