@@ -32,4 +32,6 @@
 </p>
 <p>&nbsp;
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pro-utkarshM&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=pro-utkarshM)](https://git.io/streak-stats)
 </div>
