@@ -32,8 +32,8 @@
 </p>
 <p>&nbsp;
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pro-utkarshM&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-  <pre>
   
-  </pre>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pro-utkarshM&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <p>&nbsp;
+  <img align="middle" src="[![GitHub Streak](https://streak-stats.demolab.com?user=pro-utkarshM&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)" alt="ovi" width="410" /></p>
+  
 </div>
