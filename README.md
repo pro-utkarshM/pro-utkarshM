@@ -19,7 +19,7 @@
   learner, hence prefer learning new technologies through development.
   In my free time, I explore new technologies, read tech blogs
   and solve real life problems. </pre>
-  
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -34,5 +34,6 @@
 </p>
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=pro-utkarshM&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pro-utkarshM&label=Profile%20views&color=0e75b6&style=flat" alt="pro-utkarshM" /> </p>
+
 </div>
