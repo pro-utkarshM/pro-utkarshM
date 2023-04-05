@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://cdn.pixabay.com/photo/2014/01/17/22/59/beta-lyrae-247225_960_720.jpg?w=2000" align="right" width="270" height="250"/>
+  <img src="https://cdn.pixabay.com/photo/2018/03/31/20/47/galaxy-3279274_960_720.jpg?w=2000" align="right" width="270" height="250"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/utkarsh-maurya-090062253/"  target="_blank">
