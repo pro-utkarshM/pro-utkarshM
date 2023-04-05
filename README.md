@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000" align="right" width="250" height="270"/>
+  <img src="https://cdn.pixabay.com/photo/2014/01/17/22/59/beta-lyrae-247225_960_720.jpg?w=2000" align="right" width="250" height="270"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/utkarsh-maurya-090062253/"  target="_blank">
