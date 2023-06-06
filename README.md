@@ -29,9 +29,6 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-utkarshM&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
 </p>
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pro-utkarshM&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
-</p>
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=pro-utkarshM&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=pro-utkarshM&label=Profile%20views&color=0e75b6&style=flat" alt="pro-utkarshM" /> </p>
