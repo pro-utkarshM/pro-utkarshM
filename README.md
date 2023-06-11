@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning_kernel<br>
+🔭 I’m currently working on my startup NexusCampus<br>
 🤝 I’m looking for help with Linux Kernel<br>
 🌱 I’m currently learning Linux Kernel<br>
 💬 Ask me about Android Development and Front-end Web Development<br>
