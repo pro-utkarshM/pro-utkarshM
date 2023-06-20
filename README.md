@@ -3,6 +3,8 @@
 🤝 I’m looking for help with Linux Kernel<br>
 🌱 I’m currently learning Linux Kernel<br>
 💬 Ask me about Android Development and Front-end Web Development<br>
+💬 I write <a href="https://medium.com/@sankalp.1519">blogs</a> sometimes.
+
 
 
 ## 🌐 Socials:
