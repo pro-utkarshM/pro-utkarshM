@@ -47,7 +47,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+<img hight="450" width="570" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlydHhjNnR6NW5sNzJsaWJ5eTNuZmJnd2pzbmI3azJmMmpiaGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4hnCnBbA19du/giphy.gif">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pro-utkarshM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
