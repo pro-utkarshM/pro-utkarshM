@@ -35,7 +35,7 @@
 
 
 # 📊 GitHub Stats:
-<img hight="450" width="450" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pobnBncHlsY2VmeWZsMHFudjBhdXA3ZGgweWJ0MWtxbXU0M2p6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif">
+<img hight="350" width="350" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pobnBncHlsY2VmeWZsMHFudjBhdXA3ZGgweWJ0MWtxbXU0M2p6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pro-utkarshM&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=pro-utkarshM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -47,7 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<img hight="450" width="570" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlydHhjNnR6NW5sNzJsaWJ5eTNuZmJnd2pzbmI3azJmMmpiaGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4hnCnBbA19du/giphy.gif">
+<img hight="350" width="470" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlydHhjNnR6NW5sNzJsaWJ5eTNuZmJnd2pzbmI3azJmMmpiaGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4hnCnBbA19du/giphy.gif">
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
