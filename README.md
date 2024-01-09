@@ -20,7 +20,7 @@ Web Dev? Nah, I Speak Binary! C & ASM to the cloud, Bash & Python to pipelines â
 
 - Jujutsu Kaisen is my favorite anime.
 - As a kid, I wanted to be an astronaut.
-- I love using different distros.
+- I love using different Linux-based distros.
 
 ## ðŸ“« Contact
 
