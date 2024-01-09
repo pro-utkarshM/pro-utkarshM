@@ -1,58 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working on my startup NexusCampus<br>
-🤝 I’m looking for help with Linux Kernel<br>
-🌱 I’m currently learning about Linux Kernel<br>
-💬 Ask me about Android Development and Front-end Web Development<br>
-💬 I write <a href="https://medium.com/@sankalp.1519">blogs</a> sometimes.
+### Hey, I'm Utkarsh 👋 
 
+I'm a 20-year-old developer, this is where code goes to die (and occasionally, to live again).
 
+- Check out my [website](https://utkarshs-terminal.netlify.app/) to learn more about me.
+- Explore my [blog](https://medium.com/@sankalp.1519) where I share insights and learnings.
+- Stay updated with my journey on [Instagram](https://www.instagram.com/utkarsh_maurya17/), [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/) and [YouTube](https://www.youtube.com/@tss.TheSkillShow).
+- Explore my [dotfiles](https://github.com/pro-utkarshM/dotfiles) for development optimization.
+- Yes I do [Leetcode](https://leetcode.com/pro-utkarshM/), but I don't like it 🙂;
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/utkarsh_maurya17/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-maurya-090062253/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sankalp.1519) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Utkarsh70354118) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pro-utkarshM/)
+## 🔭 Current Endeavors 
 
+Web Dev? Nah, I Speak Binary! C & ASM to the cloud, Bash & Python to pipelines – I engineer solutions from the core to the cloud.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- I'm engaged in exciting full-stack projects.
+- I'm exploring different tools to enhance my skill set.
+- I'm a night owl, always driven and constantly learning in the tech world.
 
+## ✨ Fun Facts 
 
-# 📊 GitHub Stats:
-<img hight="340" width="320" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pobnBncHlsY2VmeWZsMHFudjBhdXA3ZGgweWJ0MWtxbXU0M2p6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif">
+- Jujutsu Kaisen is my favorite anime.
+- As a kid, I wanted to be an astronaut.
+- I love using different distros.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pro-utkarshM&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=pro-utkarshM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-utkarshM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📫 Contact
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-<img hight="350" width="470" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlydHhjNnR6NW5sNzJsaWJ5eTNuZmJnd2pzbmI3azJmMmpiaGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4hnCnBbA19du/giphy.gif">
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
+ For a quick response, DM me on [Instagram](https://www.instagram.com/utkarsh_maurya17/) or [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/). 
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=pro-utkarshM&icon=0&color=0)](https://visitcount.itsvg.in)
 
