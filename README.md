@@ -24,7 +24,7 @@ Web Dev? Nah, I Speak Binary! C & ASM to the cloud, Bash & Python to pipelines â
 
 ## ðŸ“« Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/utkarsh_maurya17/) or [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/gilfoyle_2.0/) or [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/). 
  
 ---
 [![](https://visitcount.itsvg.in/api?id=pro-utkarshM&icon=0&color=0)](https://visitcount.itsvg.in)
