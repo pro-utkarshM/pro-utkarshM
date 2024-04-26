@@ -8,11 +8,20 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 - Explore my [dotfiles](https://github.com/pro-utkarshM/dotfiles) for development optimization.
 - Yes I do [Leetcode](https://leetcode.com/pro-utkarshM/), but I don't like it 🙂;
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/utkarsh_maurya17/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-maurya-090062253/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sankalp.1519) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Utkarsh70354118) 
+---
+<p align=center>
+<img src="https://github.com/pro-utkarshM/pro-utkarshM/assets/118096976/af3aca24-e71d-4e64-968a-8e1e31ec0b07">
+</p>
+
+<h2 align=center> Been battling some nasty ext4 corruption issues lately. </h2>
+
+<p align=center> In the meantime, gotta grab some coffee and wrestle with this pesky DMA bug on the new ARM board. <br>
+  Kernel development: never a dull moment!
+<br>
+️ Working on: ext4 journaling improvements, ARM DMA bugfix<br>
+☕️ Fueling the grind: Coffee (copious amounts)
+</p>
+
 
 ## ⚡️ Tech Stack ⚡️
 
@@ -52,13 +61,19 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
 
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/utkarsh_maurya17/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-maurya-090062253/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sankalp.1519) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Utkarsh70354118) 
+
+
 # 📊 GitHub Stats:
-<img hight="340" width="320" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pobnBncHlsY2VmeWZsMHFudjBhdXA3ZGgweWJ0MWtxbXU0M2p6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pro-utkarshM&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=pro-utkarshM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-utkarshM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pro-utkarshM&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies
