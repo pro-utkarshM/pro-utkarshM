@@ -16,9 +16,7 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 <h2 align=center> Been battling some nasty ext4 corruption issues lately. </h2>
 
 <p align=center> In the meantime, gotta grab some coffee and wrestle with this pesky DMA bug on the new ARM board. <br>
-  Kernel development: never a dull moment!
-<br>
-️ Working on: ext4 journaling improvements, ARM DMA bugfix<br>
+<br>️ Working on: ext4 journaling improvements, ARM DMA bugfix<br>
 ☕️ Fueling the grind: Coffee (copious amounts)
 </p>
 
