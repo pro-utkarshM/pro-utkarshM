@@ -77,10 +77,13 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-<img hight="350" width="470" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlydHhjNnR6NW5sNzJsaWJ5eTNuZmJnd2pzbmI3azJmMmpiaGRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4hnCnBbA19du/giphy.gif">
+## 📊 My Profile
+<p align=center>
+<img src="./assets/Profile.png">
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pro-utkarshM&icon=0&color=0)](https://visitcount.itsvg.in)
