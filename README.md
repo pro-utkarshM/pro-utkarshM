@@ -79,7 +79,7 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 
 ## 📊 My Profile
 <p align=center>
-<img src="./assets/Resume.png">
+<img src="./assets/Resume-removebg.png">
 </p>
 
 ### ✍️ Random Dev Quote
