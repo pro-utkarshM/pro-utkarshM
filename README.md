@@ -3,7 +3,6 @@
 I'm a 20-year-old developer, this is where code goes to die (and occasionally, to live again).
 
 - Check out my [portfolio website](https://utkarshs-terminal.netlify.app/) or my [GUI-Portfolio/blogs website](https://utkarsh-maurya.netlify.app) to learn more about me.
-- Explore my [blog](https://medium.com/@sankalp.1519) where I share insights and learnings.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/gilfoyle_v2/), [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/) and [YouTube](https://www.youtube.com/@tss.TheSkillShow).
 - Explore my [dotfiles](https://github.com/pro-utkarshM/dotfiles) for development optimization.
 - Yes I do [Leetcode](https://leetcode.com/pro-utkarshM/), but I don't like it 🙂;
