@@ -2,8 +2,8 @@
 
 I'm a 20-year-old developer, this is where code goes to die (and occasionally, to live again).
 
-- Check out my [portfolio website](https://utkarshs-terminal.netlify.app/) or my [GUI-Portfolio/blogs website](https://utkarsh-maurya.netlify.app) to learn more about me.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/gilfoyle_v2/), [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/) and [YouTube](https://www.youtube.com/@tss.TheSkillShow).
+- Check out my [portfolio website](https://utkarshs-terminal.netlify.app/) or my [blogs](https://utkarsh-maurya.netlify.app) to learn more about me.
+- Stay updated with my journey on [Twitter](https://x.com/gilfoyle_v2), [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/) and [YouTube](https://www.youtube.com/@tss.TheSkillShow).
 - Explore my [dotfiles](https://github.com/pro-utkarshM/dotfiles) for development optimization.
 - Yes I do [Leetcode](https://leetcode.com/pro-utkarshM/), but I don't like it 🙂;
 
@@ -64,14 +64,6 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-maurya-connect/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sankalp.1519) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gilfoyle_v2) 
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pro-utkarshM&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=pro-utkarshM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pro-utkarshM&theme=tokyonight)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
