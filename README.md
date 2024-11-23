@@ -68,11 +68,6 @@ I'm a 20-year-old developer, this is where code goes to die (and occasionally, t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pro-utkarshM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 My Profile
-<p align=center>
-<img src="./assets/Resume-removebg.png">
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
