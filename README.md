@@ -2,7 +2,7 @@
 
 I'm a 20-year-old developer, this is where code goes to die (and occasionally, to live again).
 
-- Check out my [portfolio website](https://utkarshs-terminal.netlify.app/) or my [blogs](https://utkarsh-maurya.netlify.app) to learn more about me.
+- Check out my [portfolio website](https://terminal.utkarshlabs.tech) or my [blogs](https://utkarshlabs.techtt) to learn more about me.
 - Stay updated with my journey on [Twitter](https://x.com/gilfoyle_v2), [LinkedIn](https://www.linkedin.com/in/utkarsh-maurya-connect/) and [YouTube](https://www.youtube.com/@tss.TheSkillShow).
 - Explore my [dotfiles](https://github.com/pro-utkarshM/dotfiles) for development optimization.
 - Yes I do [Leetcode](https://leetcode.com/pro-utkarshM/), but I don't like it 🙂;
