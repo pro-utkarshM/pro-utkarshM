@@ -59,7 +59,7 @@
 ## Connect
 
 ```
-curl -sSf https://raw.githubusercontent.com/pro-utkarshM/pro-utkarshM/main/connect.sh | sudo bash
+curl -sSf https://raw.githubusercontent.com/pro-utkarshM/pro-utkarshM/main/connect.sh | bash
 ```
 
 ---
