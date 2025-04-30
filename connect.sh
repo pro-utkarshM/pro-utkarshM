@@ -33,10 +33,10 @@ show_menu() {
 }
 
 # List of your URLs (replace with your real links)
-portfolio_url="https://yourportfolio.com"
-blog_url="https://yourblog.com"
-linkedin_url="https://linkedin.com/in/yourusername"
-twitter_url="https://twitter.com/yourusername"
+portfolio_url="https://terminal.utkarshlabs.tech"
+blog_url="https://utkarshlabs.tech"
+linkedin_url="https://www.linkedin.com/in/utkarsh-maurya-connect/"
+twitter_url="https://x.com/gilfoyle_v2"
 
 selection=1
 
