@@ -23,14 +23,15 @@
 
 ## Operations in Progress
 
-| Project                        | Status    | Tech                    |
+| Project                         | Status    | Tech                    |
 |:--------------------------------|:----------|:------------------------|
-| Drone-Based Rescue System      | Active    | Embedded C, Hardware     |
+| Drone-Based Rescue System       | Active    | Embedded C, Hardware     |
 | myOwnOS (Bare-Metal OS)         | Active    | ARM Assembly, C          |
-| Linux Kernel Learning Series   | Active    | C, Assembly, Linux       |
+| MicroBPF-Kernel                 | Active    | C, Assembly, Linux       |
 | X Analyser (Code Summarizer)    | Active    | Python, Static Analysis  |
-| X Project (Distributed Build)  | Active    | Systems Design           |
-| Crowdfunding Platform          | Active    | Microservices, PostgreSQL |
+| lets-build-universe             | Active    | Verilog, Chisel, C/C++, Python  |
+| Cypherock_BTC_Only_firmware     | Active    | Embedded C, Assembly, Hardware  |
+| X Project (Distributed Build)   | Active    | Systems Design           |
 
 ---
 
@@ -44,15 +45,6 @@
   Databases   : PostgreSQL
   Protocols   : TCP/IP, HTTP, Custom Distributed Systems, gRPC
 ```
-
----
-
-## Current Focus
-
-- Building `myOwnOS`: a bare-metal operating system for ARM architectures.
-- Architecting a drone-based life-saving system for mountain rescues.
-- Engineering a quantum-resistant blockchain identity framework.
-- Benchmarking Unikraft unikernels and tuning low-level performance.
 
 ---
 
