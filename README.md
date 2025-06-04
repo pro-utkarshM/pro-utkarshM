@@ -25,13 +25,13 @@
 
 | Project                         | Status    | Tech                    |
 |:--------------------------------|:----------|:------------------------|
-| Drone-Based Rescue System       | Active    | Embedded C, Hardware     |
-| myOwnOS (Bare-Metal OS)         | Active    | ARM Assembly, C          |
-| MicroBPF-Kernel                 | Active    | C, Assembly, Linux       |
-| X Analyser (Code Summarizer)    | Active    | Python, Static Analysis  |
-| lets-build-universe             | Active    | Verilog, Chisel, C/C++, Python  |
-| Cypherock_BTC_Only_firmware     | Active    | Embedded C, Assembly, Hardware  |
-| X Project (Distributed Build)   | Active    | Systems Design           |
+| [Drone-Based Rescue System](https://github.com/pro-utkarshM/TerraSearch)       | Active    | Embedded C, Hardware     |
+| [myOwnOS (Bare-Metal OS)](https://github.com/pro-utkarshM/myOwnOS)         | Active    | ARM Assembly, C          |
+| [MicroBPF-Kernel](https://github.com/pro-utkarshM/MicroBPF-Kernel)                 | Active    | C, Assembly, Linux       |
+| [lets-build-universe](https://github.com/pro-utkarshM/lets-build-universe)             | Active    | Verilog, Chisel, C/C++, Python  |
+| [Cypherock_BTC_Only_firmware](https://github.com/Cypherock/x1_wallet_firmware)     | Active    | Embedded C, Assembly, Hardware  |
+| [X Analyser (Code Summarizer)](https://github.com/x-analyser)    | Active    | Python, Static Analysis  |
+| X Project (Distributed Build)   | Inactive    | Systems Design           |
 
 ---
 
