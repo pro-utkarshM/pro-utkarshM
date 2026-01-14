@@ -23,7 +23,4 @@
 
 > "In a world made of zeros and ones, the ones who understand both write the future."
 
-```
--- End of Transmission --
-```
 ---
