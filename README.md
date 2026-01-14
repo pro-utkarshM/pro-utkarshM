@@ -1,17 +1,5 @@
 # Welcome to the Underground
 
-```
-   __        ___     _        _  _ 
-   \ \      / / |__ (_)_ __  | || |
-    \ \ /\ / /| '_ \| | '_ \ | || |_
-     \ V  V / | | | | | | | ||__   _|
-      \_/\_/  |_| |_|_|_| |_|   |_|  
-                                      
-      // Building Systems for a New Dawn //
-```
-
----
-
 ## Whoami
 
 - System Programmer. Kernel Developer. Operator of Ideas.
@@ -28,16 +16,7 @@
   Specialties : Systems Programming, Blockchain, Embedded Engineering
   Hardware    : Raspberry Pi, Drones, GPR, Lidar, STM32
   Frameworks  : Linux, Unikraft, OpenAFS
-  Databases   : PostgreSQL
   Protocols   : TCP/IP, HTTP, Custom Distributed Systems, gRPC
-```
-
----
-
-## Connect
-
-```
-curl -sSf https://raw.githubusercontent.com/pro-utkarshM/pro-utkarshM/main/connect.sh | bash
 ```
 
 ---
