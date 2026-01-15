@@ -1,5 +1,3 @@
-# Welcome to the Underground
-
 ## Whoami
 
 - System Programmer. Kernel Developer. Operator of Ideas.
@@ -19,8 +17,4 @@
   Protocols   : TCP/IP, HTTP, Custom Distributed Systems, gRPC
 ```
 
----
-
 > "In a world made of zeros and ones, the ones who understand both write the future."
-
----
