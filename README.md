@@ -1,21 +1,14 @@
 ## whoami
 
-systems programmer.   
-low-level engineer. 
+building operating systems for robots.
 
-i work close to the machine.   
-linux. kernels. embedded. distributed systems.   
+currently working on [axiomOS](axiomos.kernex.sbs) -  
+a kernel that lets robots safely change behavior at runtime using verified eBPF.  
 
-mostly C and Rust.   
-assembly when it matters.  
+previously shipped firmware at Cypherock securing hundreds of millions in digital assets.  
 
-i care about fundamentals, not hype.  
-i build for correctness, performance, and things that last.
+interests:  
+kernels • embedded systems • realtime robotics • distributed systems  
 
-## toolchain
-
-```id="z4q8sl"
-languages : C, Rust, Python, Java, Assembly
-focus     : systems, kernels, embedded, blockchain infra
-hardware  : Raspberry Pi, STM32, drones, GPR, LiDAR
-```
+mostly Rust and C.  
+assembly when necessary.  
